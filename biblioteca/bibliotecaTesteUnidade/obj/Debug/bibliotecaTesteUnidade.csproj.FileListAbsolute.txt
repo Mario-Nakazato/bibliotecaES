@@ -1,0 +1,2 @@
+C:\Users\Notebook\Documents\Projeto\bibliotecaES\biblioteca\bibliotecaTesteUnidade\obj\Debug\bibliotecaTesteUnidade.csproj.AssemblyReference.cache
+C:\Users\Notebook\Documents\Projeto\bibliotecaES\biblioteca\bibliotecaTesteUnidade\obj\Debug\bibliotecaTesteUnidade.csproj.CoreCompileInputs.cache
