@@ -1,0 +1,5 @@
+#.gitignore
+.vs
+biblioteca/.vs
+biblioteca/biblioteca/bin/Debug/biblioteca.exe
+biblioteca/biblioteca/obj/Debug/biblioteca.exe
