@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using biblioteca;
-using System;
 using System.Data;
 
 namespace bibliotecaTesteUnidade
